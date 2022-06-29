@@ -6,7 +6,9 @@ import { Game } from "seven-half-beers"
 const Gamepage = () => {
 
     return (
-        <Game />
+        <Game>
+
+        </Game>
     )
 }
 
